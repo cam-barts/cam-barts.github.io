@@ -45,6 +45,9 @@ body {
   width: 100%;
 }
 
+.nav-link{
+	margin:.2em;
+}
 .darknav {
   background: var(--background-color);
   color: var(--text-color);
@@ -101,21 +104,11 @@ body {
   margin: 1em 1em 1em 1em;
 }
 
-@media only screen and (max-width: 600px) {
-  .typewriter h1 {
-    font-size: 2em;
-  }
-  .typewriter p {
-    font-size: 1em;
-  }
-}
-
 /* Style all font awesome icons */
 
 .fab {
   padding: .5em;
   font-size: 30px;
-  width: 2em;
   text-align: center;
   text-decoration: none;
 }
@@ -146,4 +139,17 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-around;
+}
+
+@media only screen and (max-width: 600px) {
+  .typewriter h1 {
+    font-size: 2em;
+  }
+  .typewriter p {
+    font-size: 1em;
+  }
+  .card {
+    width: auto;
+    margin: 1em 1em 1em 1em;
+  }
 }
