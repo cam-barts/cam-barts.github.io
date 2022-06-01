@@ -1,8 +1,7 @@
 ---
 title: Hello World
-date: 2021-12-01
+date: 2022-06-01 00:00:00 -0400
 ---
-
 
 ## What is this place?
 
