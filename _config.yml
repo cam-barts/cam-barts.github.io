@@ -23,7 +23,9 @@ timezone: America/New_York
 
 title: Cam's Digital Garden                          # the main title
 
-tagline: Technology is a Superpower. I want to make Superheros.   # it will display as the sub-title
+tagline: >- # it will display as the sub-title
+  Technology is a Superpower.
+  I want to make Superheros.   
 
 description: >-                        # used by seo meta and the atom feed
   Technology is a Superpower. I want to make Superheros.
