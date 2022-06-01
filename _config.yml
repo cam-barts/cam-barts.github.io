@@ -185,6 +185,8 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
+  - .obsidian
+  - _templates
 
 jekyll-archives:
   enabled: [categories, tags]
