@@ -27,15 +27,20 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 .rich-link-card {
   border: 1px solid var(--background-modifier-border);
   margin: 20px 0;
-  border-radius: 3px;
   width: 100%;
   display: flex;
   text-decoration: none;
-  background-color: var(--background-primary);
+  background-color: #1C2128;
+  border-radius: 5px;
+  padding: 5px;
 }
 
 .rich-link-card-container {
   position: relative;
+}
+
+.rich-link-card-container a {
+  color: var(--light);
 }
 
 .rich-link-card-container::after {
@@ -61,6 +66,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   background-repeat: no-repeat;
   padding-bottom: 100px;
   background-color: var(--background-secondary);
+  border-radius: 5px;
 }
 
 .rich-link-card .rich-link-card-text {
