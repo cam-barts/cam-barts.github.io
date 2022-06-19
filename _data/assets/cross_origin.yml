@@ -62,4 +62,4 @@ mathjax:
   js: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
 
 matomo:
-  js: /assets/local/matomo.js
+  js: /assets/js/matomo.js

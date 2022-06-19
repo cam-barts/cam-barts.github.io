@@ -51,4 +51,4 @@ mathjax:
   js: /assets/lib/mathjax-3.2.0/tex-chtml.js
 
 matomo:
-  js: /assets/local/matomo.js
+  js: /assets/js/matomo.js
