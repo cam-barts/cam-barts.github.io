@@ -12,7 +12,7 @@ My definition of done was this:
 - Markdown input produced PDF output
 - I could control enough of the style to make it my own
 	- Code blocks should have syntax highlighting
-	- I could use colors and assets from my ever unfinished [portfolio site](https://shadeking.cam)
+	- I could use colors and assets from my ever unfinished [portfolio site](https://cam-barts.github.io)
 	- **Nice to have**: Style is controlled *within* the markdown to affect the output PDF to make it easier to create a template
 - I can reuse the style easily in other reports
 - The process should be easily script-able
