@@ -1,0 +1,99 @@
+@use "./base.scss";
+
+.page article > h1 {
+  font-size: 3.053rem;
+  color: #5d4fba;
+}
+
+.page article > h2 {
+  font-size: 2.442rem;
+  color: #28d8db;
+}
+
+.page article > h3 {
+  font-size: 1.954rem;
+  color: #23d188;
+}
+
+.page article > h4 {
+  font-size: 1.653rem;
+  color: #ff0d8a;
+}
+
+.page article > h5 {
+  font-size: 1.25rem;
+}
+
+.page article > h6 {
+  font-size: 0.8rem;
+}
+
+// put your custom CSS here!
+.rich-link-card {
+  border: 1px solid var(--lightgray);
+  margin: 20px 0;
+  border-radius: 3px;
+  width: 100%;
+  display: flex;
+  text-decoration: none !important;
+  background-color: var(--light);
+}
+
+.rich-link-card-container {
+  position: relative;
+}
+
+.rich-link-card .rich-link-image-container {
+  height: 100px;
+  width: 35%;
+  min-width: 120px;
+  overflow: hidden;
+  border-right: 1px solid var(--lightgray);
+}
+
+.rich-link-card .rich-link-image {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 100px;
+  background-color: var(--darkgray);
+}
+
+.rich-link-card .rich-link-card-text {
+  padding: 4px;
+  width: 75%;
+  overflow: hidden;
+}
+
+.rich-link-card .rich-link-card-title {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  margin: 0 0 4px 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: var(--darkgray);
+}
+
+.rich-link-card .rich-link-card-description {
+  font-family: sans-serif;
+  font-size: 0.6rem;
+  margin: 0;
+  color: var(--gray);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.rich-link-card .rich-link-href {
+  font-family: sans-serif;
+  font-size: 0.5rem;
+  margin: 0;
+  color: var(--gray);
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
