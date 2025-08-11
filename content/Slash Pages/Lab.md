@@ -383,6 +383,27 @@ I use whishper mostly to transcribe my dictations so that I can clean them up in
 
 ## Citadel Services
 
+### BunkerWeb
+<div class="rich-link-card-container">
+    <a class="rich-link-card" href="https://www.bunkerweb.io/" target="_blank">
+	    <div class="rich-link-image-container">
+		    <div class="rich-link-image" style="background-image: url('https://www.bunkerweb.io/wp-content/uploads/2025/01/intro-overview.png')">
+	        </div>
+	    </div>
+	    <div class="rich-link-card-text">
+		    <p class="rich-link-card-title">BunkerWeb - the open-source Web Application Firewall (WAF)</p>
+		    <p class="rich-link-card-description">
+		        Fool attackers and protect your web services with BunkerWeb, the open-source and next-gen Web Application Firewall (WAF).
+		    </p>
+		    <p class="rich-link-href">
+		        https://www.bunkerweb.io/
+		    </p>
+	    </div>
+    </a>
+</div>
+
+I [[Transitioning to Bunkerweb|transitioned to BunkerWeb]] from [[#Nginx Proxy Manager]]. I have 3 domains that route to my BunkerWeb instance, which then routes all of my traffic to the underlying applications from there. It creates, administers, and automatically renews Let's Encrypt certs for all of my applications.
+
 ### Monitoring Stack
 
 <div class="rich-link-card-container">
@@ -654,7 +675,7 @@ VaultWarden is a BitWarden clone written in Rust, which implements all of the fe
 	</div>
 </a></div>
 
-The public face of my entire lab! I have 3 domains that route to my NGinx proxy manager instance, which then routes all of my traffic to the underlying applications from there. It creates, administers, and automatically renews Let's Encrypt certs for all of my applications.
+Formerly the public face of my entire lab prior to my [[Transitioning to Bunkerweb|transition]] to [[#BunkerWeb]]. 
 
 ### Fail2Ban
 

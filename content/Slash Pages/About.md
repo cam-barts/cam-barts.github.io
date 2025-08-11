@@ -14,7 +14,7 @@ Hey there, I'm Cam! You've stumbled on my blog, where I write about stuff that i
 
 ### Windows 95, AOL Instant Messenger, and One Hour a Day
 
-On of the luckiest things that has ever happened to me was in the ’90s, my dad brought home an old Windows 95 machine from work. They had upgraded all the hardware and he was in a position at the time to salvage one of the machines from being hauled away. 
+One of the luckiest things that has ever happened to me was in the ’90s, my dad brought home an old Windows 95 machine from work. They had upgraded all the hardware and he was in a position at the time to salvage one of the machines from being hauled away. 
 
 My earliest memories are of that machine, propped up on a desk in our living room. He only let me sit at the keyboard for one hour a day, but even early on I remember playing games, exploring the early web, hearing the “You’ve Got Mail” whenever I opened up AOL. I remember picking up the landline phone and hearing the sounds of the internet. 
 
