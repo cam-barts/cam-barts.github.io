@@ -18,7 +18,7 @@ Inspired by https://fyr.io/nope and https://baty.net/nope/, and in no particular
 - **turn off my ad blocker for your dumb site?** *Nope*, bold of you to assume your dumb site warrants an exception.
 - **sign up for your newsletter?** *Nope*, if I want to see your content, I'll subscribe to your RSS feed. Don't have one? Oof, I guess. 
 - **create an account to read more?** *Nope*, I've rarely found content worth engaging in that I couldn't do so anonymously. Incognito, Wayback Machine, VPN, proxy sites like https://freedium.cfd/, and if none of those work, I'll assume you just deeply didn't want me to read it.
-- **sign up for the paid, hosted version of your software?** *Nope*, because I enjoy [[Lab|Self Hosting]] and I like my data staying on my own machines whenever possible. 
+- **sign up for the paid, hosted version of your software?** *Nope*, because I enjoy [[Lab|Self Hosting]] and I like my data staying on my own machines whenever possible.  ^7a528a
 - **give you my real email address?** *Nope*, I'll give you an alias that's tied to you, so that when you sell my data and I get emails from people who aren't you on that alias, I'll know your treachery and will stop providing you my business and attention.
 - **download your app?** *Nope*, at least not just because you asked me to.
 - **take a moment to fill out a brief survey?** *Nope*, unless I've explicitly opted into your alpha or beta program.

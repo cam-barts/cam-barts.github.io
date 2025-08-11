@@ -1,5 +1,9 @@
 ---
 description: Evaluating Bunkerweb in my Lab
+tags:
+ - homelab
+ - open-source
+ - self-hosted
 ---
 
 <div class="rich-link-card-container">
@@ -62,7 +66,7 @@ I’m also keen on automating more of the ban and unban process via BunkerWeb’
 
 Part of my desire to hook into the API is that I want to implement more aggressive honeypot-style banning, but this can also be something BunkerWeb builds in I think. BunkerWeb’s ModSecurity rules and block lists do a great job of blocking individual suspicious calls, but I’d like certain hits (like say any request to `/.env` or `/.git` or `/wp-admin.php`) to trigger an immediate ban rather than just a simple block. None of my real services use those endpoints, so every attempt is almost certainly malicious. Tuning those rules into “block and ban outright” is on my to-do list, but I'd be thrilled if BunkerWeb came out with that functionality.
 
-Finally, on a purely cosmetic level, the UI feels a bit cluttered with prompts for premium features. There are sidebar entries for enterprise-only plugins and a persistent call to action to sign up for the newsletter in the notification area, which I have zero intention of doing. I’m fully behind open source developers finding ways to monetize their work, but if I know I’m never going to upgrade or subscribe, I should be able to disable or hide those sections in the interface. I’d love an option or even a simple toggle to collapse or remove them entirely, but for now I’m living with the extra noise until I find a neat workaround.
+Finally, on a purely cosmetic level, the UI feels a bit cluttered with prompts for premium features. There are sidebar entries for enterprise-only plugins and a persistent call to action to sign up for the newsletter in the notification area, which [[Nope#^7a528a|I don't have any intention of doing]]. I’m fully behind open source developers finding ways to monetize their work, but if I know I’m never going to upgrade or subscribe, I should be able to disable or hide those sections in the interface. I’d love an option or even a simple toggle to collapse or remove them entirely, but for now I’m living with the extra noise until I find a neat workaround.
 
 
 [![[not_by_ai.png|150]]](https://notbyai.fyi)
