@@ -13,7 +13,7 @@ Before embarking on this latest iteration, I decided to deeply reflect on *why* 
 
 A [crucible](https://en.wikipedia.org/wiki/Crucible) is a container used in metallurgy to heat and melt metals at very high temperatures, often to purify or refine the material by removing impurities. It metaphorically represents a process of transformation where raw, unrefined material is subjected to intense heat to separate out the impurities and reveal the pure essence contained. 
 
-In the [[About#Marine Corps & Signals Intelligence|Marines]], [**the** Crucible](https://en.wikipedia.org/wiki/United_States_Marine_Corps_Recruit_Training#Week_10:_The_Crucible) is the final test exercise in bootcamp, where the last *civilian* impurities of recruits are burnt off in the heat of intense training. 
+In the [[about#Marine Corps & Signals Intelligence|Marines]], [**the** Crucible](https://en.wikipedia.org/wiki/United_States_Marine_Corps_Recruit_Training#Week_10:_The_Crucible) is the final test exercise in bootcamp, where the last *civilian* impurities of recruits are burnt off in the heat of intense training. 
 
 In relation to writing, the concept of a crucible signifies how the act of putting thoughts into words on paper can serve as a refining process for ideas. Just as metals are purified in a crucible, writing helps to strip away assumptions, clarify fuzzy thoughts, and uncover the core truths within our understanding. Through this process, writing becomes a tool for intellectual refinement, transforming vague notions into clear and useful insights.
 

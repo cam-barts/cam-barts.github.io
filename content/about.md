@@ -1,7 +1,7 @@
 ---
 title: About
 description: Who Am I?
-permalink: /about
+permalink: /About
 tags: 
   - SlashPages
 ---

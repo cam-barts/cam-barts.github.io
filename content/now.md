@@ -1,6 +1,7 @@
 ---
+title: Now
 description: What am I thinking about right now?
-permalink: /now
+permalink: /Now
 tags: 
   - SlashPages
 ---

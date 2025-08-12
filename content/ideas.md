@@ -1,6 +1,7 @@
 ---
+title: Ideas
 description: Half baked ideas I'd like to work on
-permalink: /ideas
+permalink: /Ideas
 tags: 
   - SlashPages
 ---

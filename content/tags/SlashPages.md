@@ -28,7 +28,7 @@ aliases:
 </div>
 
 # Who I Am
-- [[About]] A page about me
+- [[about]] A page about me
 - [[Hello]] How I prefer to be reached
 - [[Verify]] Verification of my online presence
 - [[Why]] am I doing this?
@@ -43,14 +43,14 @@ aliases:
 - [Wish](https://tldr.cam/wish) Stuff I want
 
 # What Am I Up To
-- [[Now]] What am I focusing on currently
+- [[now]] What am I focusing on currently
 - [[Lab]] My Homelab setup
 - [[Colophon]] Tech to keep this site going
 
 
 # What Is Next
 - [[Next]] What I'm doing next
-- [[Ideas]] Things I'm considering creating
+- [[ideas]] Things I'm considering creating
 - [[Someday]] Aspirations
 - [[Death]] For my family and friends to know what to do with my shell when I'm done using it
 
