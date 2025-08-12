@@ -56,7 +56,7 @@ aliases:
 
 # Junk Drawer
 - [[AI]] How I use and don't use AI
-- [[Slash Pages/index|Slashes]] "To understand recursion, you must first understand recursion"
+- [[SlashPages|Slashes]] "To understand recursion, you must first understand recursion"
 - [[Coffee]] Send me a tip for my efforts
 - [Sitemap](/sitemap.xml) Pages on this site
 

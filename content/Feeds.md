@@ -5,10 +5,11 @@ aliases:
    - youtube
    - rss
    - podcasts
-   - Feeds
    - RSS
    - Rss
    - Podcasts
+tags: 
+  - SlashPages
 ---
 
 The following is a listing of the feeds that I follow for different media, including RSS, YouTube subscriptions, and Podcasts. An item being on this list does mean I recommend it, though I wouldn't go as far as to say I agree with everything that comes across.  There is no particular order to these, as labeling my favorites would be a never ending task. 

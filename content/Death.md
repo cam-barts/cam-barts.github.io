@@ -1,8 +1,8 @@
 ---
 description: In the event of my untimely demise...
 permalink: /death
-aliases:
-  - Death
+tags: 
+  - SlashPages
 ---
 
 Hello family and friends,

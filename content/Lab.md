@@ -4,6 +4,7 @@ tags:
   - homelab
   - open-source
   - self-hosted
+  - SlashPages
 toc: true
 permalink: /lab
 ---

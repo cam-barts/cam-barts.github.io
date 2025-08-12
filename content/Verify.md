@@ -1,9 +1,8 @@
 ---
 title: Verify
 description: Is that really me?
-permalink: /Verify
-aliases:
-  - verify
+tags: 
+  - SlashPages
 ---
 
 This document serves as a system of record for my online identities, inspired by [Molly White's](https://www.mollywhite.net/verify/) verify page. There are probably other places I exist, but either I'm not active on them or I don't wish to share publicly. If you are contacted by an account claiming to be me that isn't on this list, there's a good chance it's not actually me, but you can always [[Hello|ask]]!

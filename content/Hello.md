@@ -1,11 +1,11 @@
 ---
 title: Hello
 description: How I prefer to be reached
-permalink: /Hello
 aliases:
   - Contact
   - contact
-  - hello
+tags: 
+  - SlashPages
 ---
 
 Here's how I prefer to talk to other humans, and why:

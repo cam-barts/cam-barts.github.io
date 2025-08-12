@@ -1,9 +1,8 @@
 ---
 description: Half baked ideas I'd like to work on
 permalink: /ideas
-aliases:
-   - ideas
-   - Ideas
+tags: 
+  - SlashPages
 ---
 
 According to https://aboutideasnow.com/about, here's the idea behind an /ideas page:

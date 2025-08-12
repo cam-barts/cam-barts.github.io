@@ -1,9 +1,8 @@
 ---
 title: AI
 description: How I do and don't use AI
-permalink: /AI
-aliases:
-  - ai
+tags: 
+  - SlashPages
 ---
 
 # Guiding Principals

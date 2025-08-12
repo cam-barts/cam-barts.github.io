@@ -1,13 +1,13 @@
 ---
 title: Yup
 description: An assorted list of stuff I agree with
-permalink: /Yup
 aliases:
-  - yup
   - Yep
   - yep
   - Yes
   - yes
+tags: 
+  - SlashPages
 ---
 
 Inspired by https://fyr.io/yep and I really tried not to make it just the opposites of everything on the [[Nope]] page, so perhaps they should be read together. I'll try to keep them both updated.

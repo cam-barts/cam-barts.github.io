@@ -1,9 +1,8 @@
 ---
 description: What am I thinking about right now?
 permalink: /now
-aliases:
-   - Now
-   - now
+tags: 
+  - SlashPages
 ---
 
 

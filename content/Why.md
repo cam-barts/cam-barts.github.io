@@ -1,13 +1,13 @@
 ---
 description: Why I want to keep a blog
 permalink: /why
-aliases:
-  - Why
+tags: 
+  - SlashPages
 ---
 
 Keeping a consistent blog has been a struggle for me in the past. I've had multiple iterations that I've started and fizzled out in just a few posts. Between becoming interested in other things and honestly feeling like I didn't have anything to say, writing for the public has always been an easy thing to put on the back burner. 
 
-Before embarking on this latest iteration, I decided to deeply reflect on *why* I want to keep a blog. When organizing my [[Slash Pages/index|Slash Pages]], it seemed fitting to record my reasons on a [[Why]] page in the spirit of Miriam Suzanne's [Why Proposal](https://www.miriamsuzanne.com/2024/07/02/slash-why/) to stay motivated. Here is that record.
+Before embarking on this latest iteration, I decided to deeply reflect on *why* I want to keep a blog. When organizing my [[SlashPages|Slash Pages]], it seemed fitting to record my reasons on a [[Why]] page in the spirit of Miriam Suzanne's [Why Proposal](https://www.miriamsuzanne.com/2024/07/02/slash-why/) to stay motivated. Here is that record.
 
 # Writing is a Knowledge Crucible
 

@@ -1,11 +1,11 @@
 ---
 title: Nope
 description: An assorted list of stuff I don't agree with or won't be doing
-permalink: /Nope
 aliases:
-  - nope
   - No
   - no
+tags: 
+  - SlashPages
 ---
 
 Inspired by https://fyr.io/nope and https://baty.net/nope/, and in no particular order:

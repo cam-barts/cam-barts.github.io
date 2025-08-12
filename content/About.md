@@ -2,8 +2,8 @@
 title: About
 description: Who Am I?
 permalink: /about
-aliases:
-  - About
+tags: 
+  - SlashPages
 ---
 
 # About Me

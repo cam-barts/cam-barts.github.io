@@ -1,8 +1,8 @@
 ---
 description: Sites I like
 permalink: /links
-aliases:
-   - Links
+tags: 
+  - SlashPages
 ---
 
 I intend for this page to eventually be broken out into subcategories in the style of https://carol.gg/links/ and https://www.m19y.dev/random/cool-sites/, but there is some cleanup work I need to do in my [[Lab#Karakeep (Formerly Hoarder)]] instance for that to happen. For now, I've dumped a bunch of links into one giant bucket.

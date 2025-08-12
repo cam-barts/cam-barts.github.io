@@ -1,8 +1,8 @@
 ---
 description: Things I'm Interested In
 permalink: /interests
-aliases:
-   - Interests
+tags: 
+  - SlashPages
 ---
 
 This list is my attempt to list out my interests in a style inspired by Chris Burnell’s [/interests directory](https://chrisburnell.github.io/interests-directory). As with many pages in this blog, in the nature of [[index#What is a digital garden?|digital gardens]], I'll be updating this from time to time. Also, I expect to write about many of these, so I'll try to list the relevant tags as well. 

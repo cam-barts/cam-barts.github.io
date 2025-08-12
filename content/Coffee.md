@@ -4,7 +4,8 @@ permalink: /coffee
 aliases:
    - Tips
    - tips
-   - coffee
+tags: 
+  - SlashPages
 ---
 
 It's one of my sites [[Colophon#Principals|Principals]] that I'll never turn this into a monetary venture. That isn't [[Why|why]] I write or work on this site. It feels gross to me to try to turn a profit on people reading my thoughts. That said, if someone were to read something from here and have the unprompted desire to buy me a coffee or something, who am I to stop them?

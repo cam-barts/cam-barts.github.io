@@ -2,9 +2,10 @@
 description: My Default Apps
 permalink: /defaults
 aliases:
-  - Defaults
   - uses
   - Uses
+tags: 
+  - SlashPages
 ---
 
 # Defaults

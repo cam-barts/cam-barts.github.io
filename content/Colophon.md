@@ -1,8 +1,8 @@
 ---
 description: Tech and Principals that keeps this site running
 permalink: /colophon
-aliases:
-  - Colophon
+tags: 
+  - SlashPages
 ---
 
 > [!Quote] What is a Colophon?
