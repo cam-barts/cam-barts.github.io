@@ -12,7 +12,7 @@ Inspired by https://fyr.io/nope and https://baty.net/nope/, and in no particular
 
 # Will I...
 
-- **watch that ad?** *Nope*, I'll do everything in my power to avoid doing so.
+- **watch that ad?** *Nope*, I'll do everything in my power to avoid doing so. ^d691df
 - **turn on my camera for this meeting?** *Nope*, I built the machine I work on without a webcam for a reason. 
 - **accept any cookies more than absolutely necessary to render your dumb site?** *Nope*, and if you force me to uncheck each the unnecessary ones, I'll probably leave your dumb site.
 - **turn off my ad blocker for your dumb site?** *Nope*, bold of you to assume your dumb site warrants an exception.

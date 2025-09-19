@@ -159,6 +159,7 @@ I strongly believe that the potential of embeddings is vast and has plenty of ro
 
 - [ChatBlade](https://github.com/npiv/chatblade)
 - [Fabric](https://github.com/danielmiessler/fabric) (mostly for the prompts)
+- [Crush](https://github.com/charmbracelet/crush)
 
 ## Obsidian Plugins
 

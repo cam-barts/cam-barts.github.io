@@ -37,7 +37,7 @@ In a format inspired by https://listen.hemisphericviews.com/097 and the [Default
 - **Code Editor:** Neovim, specifically [AstroNvim](https://astronvim.com/)
 - **Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty/), formerly [Alacritty](https://github.com/alacritty/alacritty)
 - **Wishlist:** [[Lab#WishThis]] [[Lab|🖥]]
-- **Text Expander:** [Espanso](https://espanso.org/)
+- **Text Expander:** [Espanso](https://espanso.org/) ^e4a6c4
 
 # Hardware
 

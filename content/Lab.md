@@ -218,7 +218,30 @@ This is my [[Defaults|default]] url shortener, which I use for [tldr.cam](https:
     </a>
 </div>
 
-While I have [ytdl-sub](https://github.com/jmbannon/ytdl-sub) for my subscriptions, I use metube to download one-off videos from folks I don't subscribe to, which also goes to [[#Jellyfin]].
+While I have [[#Pinchflat]] for my subscriptions, I use metube to download one-off videos from folks I don't subscribe to, which also goes to [[#Jellyfin]].
+
+### Morss
+
+<div class="rich-link-card-container">
+    <a class="rich-link-card" href="https://github.com/xNinjaKittyx/morss" target="_blank">
+	    <div class="rich-link-image-container">
+		    <div class="rich-link-image" style="background-image: url('https://github.com/fluidicon.png')">
+	        </div>
+	    </div>
+	    <div class="rich-link-card-text">
+		    <p class="rich-link-card-title">GitHub - xNinjaKittyx/morss: Get full text RSS feeds</p>
+		    <p class="rich-link-card-description">
+		        Get full text RSS feeds. Contribute to xNinjaKittyx/morss development by creating an account on GitHub.
+		    </p>
+		    <p class="rich-link-href">
+		        https://github.com/xNinjaKittyx/morss
+		    </p>
+	    </div>
+    </a>
+</div>
+
+Before I figured out how to update the configuration on this site's [rss feed](https://cam-barts.github.io/index.xml) to allow for full text rss, I deployed this to help some friends get the full text of my blog posts in their RSS reader. As an [[Feeds|Rss Enjoyer]] myself, I figured it might be useful to keep around for myself in the future in case I stumble upon sites with whack RSS feeds. 
+
 
 ### Noteshare.Space
 
@@ -284,6 +307,32 @@ This is my [[Defaults|default]] interface for [[AI]]. I'm able to hook in OpenAI
 
 PhotoPrism is my photos management system, and is like an Open Source Google Photos. I am by no means a photographer, but I do like to keep my photos and have some ability to search them and find what I am looking for, and PhotoPrism makes that easy. 
 
+### Pinchflat
+
+<div class="rich-link-card-container">
+    <a class="rich-link-card" href="https://github.com/kieraneglin/pinchflat" target="_blank">
+	    <div class="rich-link-image-container">
+		    <div class="rich-link-image" style="background-image: url('https://github.com/fluidicon.png')">
+	        </div>
+	    </div>
+	    <div class="rich-link-card-text">
+		    <p class="rich-link-card-title">GitHub - kieraneglin/pinchflat: Your next YouTube media manager</p>
+		    <p class="rich-link-card-description">
+		        Your next YouTube media manager. Contribute to kieraneglin/pinchflat development by creating an account on GitHub.
+		    </p>
+		    <p class="rich-link-href">
+		        https://github.com/kieraneglin/pinchflat
+		    </p>
+	    </div>
+    </a>
+</div>
+
+Up until recently when I started having issues with it, I used to use [ytdl-sub](https://github.com/jmbannon/ytdl-sub) to download videos from channels I subscribed to and stored them in my [[#Jellyfin]] instance. I switched over to Pinchflat because it didn't seem to have the same issues, and doesn't attempt to download everything at once, which can lead to problems hitting rate limits imposed by YouTube. 
+
+This is my preferred mechanism to watch videos for a couple of reasons:
+1. The most obvious benefit of downloading is it removes ads. [[Nope#^d691df|I absolutely hate ads.]]
+2. YouTube only allows for 2x speedup in the UI, and there are quite a few videos and even channels I subscribe to where my preferred watching speed is >=2.25x. I find this is especially true for tutorials and conference talks.
+3. YouTube recommendations kindof suck.
 
 ### Portainer Agent
 I utilize [Portainer](https://www.portainer.io/) as the administrative interface for the majority of my services. To that end, I have an agent installed on all of the machines in my home lab that I intend to deploy containers on.
