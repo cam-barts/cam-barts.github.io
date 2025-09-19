@@ -21,7 +21,7 @@ I am a technologist by passion and by trade, so this shouldn't be too surprising
 - Space Exploration
 
 # Learning and Proficiency Building
-Between [[about#Linux in the Fleet|getting to teach]] in the Marines, having the privilege of world class teachers and leaders, and becoming a part of the #obsidian community, understanding how people learn and how best to convey information has become a persistent interest of mine.
+Between [[About#Linux in the Fleet|getting to teach]] in the Marines, having the privilege of world class teachers and leaders, and becoming a part of the #obsidian community, understanding how people learn and how best to convey information has become a persistent interest of mine.
 - Levels of Proficiency
 - Skill building
 - Teaching
