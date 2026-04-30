@@ -48,3 +48,4 @@ In that spirit, here are a few of my half baked ideas for projects and features:
 - I should probably write up a [[Dotfiles|post]] covering my [dotfiles](https://github.com/cam-barts/.dotfiles) and my [ansible repo](https://github.com/cam-barts/ansible)
 - A post covering my use of [[Defaults#^e4a6c4|Espanso]] is probably coming. Here's a placeholder: [[Espanso Snippets]]
 - I'm going to write a better version of [[Work Right Ship Fast]]. My philosophy is the same, but I just think that post sucks.
+- Moving from [[Obsidian Setup|Obsidian]] to [[Lab#SilverBullet|SilverBullet]], and some of the fun plugins I've made

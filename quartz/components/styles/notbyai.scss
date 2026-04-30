@@ -1,0 +1,17 @@
+.notbyai {
+  text-align: center;
+  margin: 2rem 0;
+
+  a {
+    display: inline-block;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  img {
+    display: block;
+  }
+}

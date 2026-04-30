@@ -1,6 +1,7 @@
 ---
 description: What am I thinking about right now?
 permalink: /now
+notbyai: true
 tags: 
   - SlashPages
 ---
@@ -20,22 +21,16 @@ Above all, I’m focused on continuing to broaden my own skills while lifting up
 
 # Home Life
 
-My baby girl finished up Kindergarten and we are wrapping up her first summer vacation. There have been a ton of King's Dominion trips, seeing family and friends, travelling, and making this summer one to remember for all of us. 
+The biggest news is that Brittaney is pregnant! We have a baby boy on the way in late July/early August. We're obviously all super excited about that, but it's been a joy to see Grace really come to understand that she's going to be a big sister. She takes that super seriously, telling everyone she knows and even saying bye to mom's belly when I walk her to school! CFA Institute has a very generous paternity leave plan, so I'll likely be able to take off until the end of the year to help out with little man when he gets here. 
 
-We've gotten to watch her and my wife both face down and conquer fears of certain roller coasters, which every time has just been a jolt of pure dopamine to experience. We've even gotten my niece to try some rides she never thought she'd get on! Courage is contagious, and I've been so proud of all of them!
-
-We are planning a trip to Disney in January! That will be so much fun, and we'll really be able to flex all of our roller-coaster riding muscles we've built up!
-
-We made a trip to Boston recently to visit my best friend and his family, and we got to experience the Red Sox win at Fenway. It was probably the best baseball game I've ever experienced: perfect weather, the crowd was electric, the game itself was exciting (a 6 run rally in the 4th). 
+The Disney trip was successful and a ton of fun! Some highlights for me were building lightsabers and a BB-8 for Grace, I had an emotional moment meeting Mary Poppins, we surprised my brother-in-law with Space 220 at Epcot, I had an emotional moment meeting Captain Jack Sparrow, we got to ride the Jurassic Park dinosaur ride before it closed, and I had an emotional moment meeting Buzz Lightyear!
 
 
 # Media I'm Taking In
 
-- We just finished the Skywalker Saga, and will be starting Andor and Rouge One
+- Michael Jackson was the greatest entertainer to ever live, so of course we went to see the Michael biopic, and of course we *loved* it
+- I just finished reading [The Notebook: A History of Thinking on Paper](https://www.amazon.com/The-Notebook/dp/1788169328) by Roland Allen, and I ate it up. Thanks for the recommendation Chandler!
 - I'm currently reading:
 	- [Algorithm's To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 	- [How to Read a Book](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095?crid=28H94BZVOH9Z8&s=books&sprefix=how+to+read+a+boo%2Cstripbooks%2C88&sr=1-4)
 	- [Genius: The Life and Science of Richard Feynman](https://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/B008YFC52O?crid=277M9OXT0JOS4&s=books&sprefix=genius+feynman%2Cstripbooks%2C85&sr=1-2)
-
-
-[![[not_by_ai.png|150]]](https://notbyai.fyi)

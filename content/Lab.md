@@ -410,25 +410,52 @@ This is useful for me when creating new automations that hook into various platf
 
 ### Whishper
 
+<s>I use whishper mostly to transcribe my dictations so that I can clean them up in [[#Open WebUI]] (more about that in my [[AI|How I Use AI]] post). Occasionally I'll also use it to get subtitles for a YouTube video.</s>
+
+### WhisperLiveKit
+
 <div class="rich-link-card-container">
-    <a class="rich-link-card" href="https://github.com/pluja/whishper" target="_blank">
+    <a class="rich-link-card" href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
 	    <div class="rich-link-image-container">
 		    <div class="rich-link-image" style="background-image: url('https://github.com/fluidicon.png')">
 	        </div>
 	    </div>
 	    <div class="rich-link-card-text">
-		    <p class="rich-link-card-title">GitHub - pluja/whishper: Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!</p>
+		    <p class="rich-link-card-title">GitHub - QuentinFuxa/WhisperLiveKit: Simultaneous speech-to-text models</p>
 		    <p class="rich-link-card-description">
-		        Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models! - pluja/whishper
+		        Simultaneous speech-to-text models. Contribute to QuentinFuxa/WhisperLiveKit development by creating an account on GitHub.
 		    </p>
 		    <p class="rich-link-href">
-		        https://github.com/pluja/whishper
+		        https://github.com/QuentinFuxa/WhisperLiveKit
 		    </p>
 	    </div>
     </a>
 </div>
 
-I use whishper mostly to transcribe my dictations so that I can clean them up in [[#Open WebUI]] (more about that in my [[AI|How I Use AI]] post). Occasionally I'll also use it to get subtitles for a YouTube video. 
+I swiched from [[#Whishper]] to WhisperLiveKit, mostly for a simpler and *live* transcription interface, and also because I easily vibe coded an integration with [[#SilverBullet]].
+
+
+### SilverBullet
+
+<div class="rich-link-card-container">
+    <a class="rich-link-card" href="https://silverbullet.md/" target="_blank">
+	    <div class="rich-link-image-container">
+		    <div class="rich-link-image" style="background-image: url('https://silverbullet.md/.client/logo.png')">
+	        </div>
+	    </div>
+	    <div class="rich-link-card-text">
+		    <p class="rich-link-card-title">SilverBullet</p>
+		    <p class="rich-link-card-description">
+		        SilverBullet is a Programmable, Private, Browser-based, Open Source, Self Hosted, Personal Knowledge Management Platform.
+		    </p>
+		    <p class="rich-link-href">
+		        https://silverbullet.md/
+		    </p>
+	    </div>
+    </a>
+</div>
+
+Those that know me well probably never would have guess, but I've basically completely moved out of Obsidian, and now do all of my note taking in SilverBullet. I'll likely be writing up a blog post about that soon (see [[Ideas#Blog Ideas]])
 
 
 ## Citadel Services

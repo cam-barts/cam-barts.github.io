@@ -1,6 +1,7 @@
 ---
 description: Why I want to keep a blog
 permalink: /why
+notbyai: true
 tags: 
   - SlashPages
 ---
@@ -91,6 +92,3 @@ I'll just reiterate a few things from my [[Colophon]] page:
 ![[Colophon#This isn't a money making venture|This Is Not a money Making Venture]]
 
 ![[Colophon#This isn't a clout making venture|This isn't a clout making venture]]
-
-
-[![[not_by_ai.png|150]]](https://notbyai.fyi)
