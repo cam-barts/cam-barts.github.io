@@ -22,33 +22,42 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
+      // Observatory / Night Market identity. Header = Space Grotesk (the SB
+      // Observatory display face), body = Atkinson Hyperlegible (Cam's brand
+      // legible serif-less body). Code = JetBrains Mono is the Google-hosted
+      // fallback; custom.scss layers Monaspace Argon (the live SB code font,
+      // not on Google Fonts) on top via @font-face from jsDelivr.
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Atkinson Hyperlegible",
-        code: "IBM Plex Mono",
+        header: { name: "Space Grotesk", weights: [400, 500, 600, 700] },
+        body: { name: "Atkinson Hyperlegible", weights: [400, 700] },
+        code: "JetBrains Mono",
       },
       colors: {
+        // Light mode kept available (theme toggle) but warm-tinted to stay on
+        // brand. Dark is the primary identity.
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#5D4FBA",
-          tertiary: "#ff0d8a",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#faf8f6",
+          lightgray: "#e7e2db",
+          gray: "#9a9488",
+          darkgray: "#3b3b46",
+          dark: "#1a1b26",
+          secondary: "#1f6f8f", // cyan-blue links (readable on light)
+          tertiary: "#d98200", // orange accent / hover
+          highlight: "rgba(125, 207, 255, 0.15)",
+          textHighlight: "#ffaa0044",
         },
+        // Dark = Observatory (Tokyo Night derived). canvas #07090d, txt
+        // #c0caf5, cyan links #7dcfff, orange #ffaa00 accent.
         darkMode: {
-          light: "#151515",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#5D4FBA",
-          tertiary: "#ff0d8a",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#07090d", // canvas / page background
+          lightgray: "#2a2e42", // hairlines / borders
+          gray: "#565f89", // muted / faint text
+          darkgray: "#c0caf5", // body text
+          dark: "#c0caf5", // headings / strong (hue-coded in custom.scss)
+          secondary: "#7dcfff", // links (cyan — matches SB link-color)
+          tertiary: "#ffaa00", // accent / link-hover (Observatory orange)
+          highlight: "rgba(125, 207, 255, 0.08)",
+          textHighlight: "rgba(255, 13, 138, 0.25)",
         },
       },
     },
@@ -62,7 +71,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
-          dark: "github-dark",
+          dark: "tokyo-night",
         },
         keepBackground: false,
       }),
